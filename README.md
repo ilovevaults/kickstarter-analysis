@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Goals
-Using a dataset of various types of campaigns, goals, media categories, and different countries to look for trends.
+The analysis used a dataset comprised of different kickstarters. Then the various types of campaigns, goals, media categories, and different countries were analyzed for any trends.
 ### Purpose
 Analyzing different types of campaigns and how they compared to their launch dates and funding goals
 ## Analysis and Challenges
